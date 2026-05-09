@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|d:\\shoplaptop-qd1alz\\shoplaptop\\src\\shop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\shop\\plugins\\ckfinder\\ckfinder_v1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\plugins\\ckfinder\\ckfinder_v1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\shop\\plugins\\ckfinder\\ckfinder.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\plugins\\ckfinder\\ckfinder.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\shop\\plugins\\ckfinder\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\plugins\\ckfinder\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\shop\\plugins\\ckfinder\\config.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\plugins\\ckfinder\\config.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\shop\\plugins\\ckfinder\\ckfinder.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\plugins\\ckfinder\\ckfinder.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\shop\\plugins\\ckfinder.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\plugins\\ckfinder.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\shop\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\models\\giohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\shop\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\models\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\shop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ckfinder_v1.js",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\ckfinder_v1.js",
+              "RelativeDocumentMoniker": "Shop\\Plugins\\ckfinder\\ckfinder_v1.js",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\ckfinder_v1.js",
+              "RelativeToolTip": "Shop\\Plugins\\ckfinder\\ckfinder_v1.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-24T03:25:00.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "config.js",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\config.js",
+              "RelativeDocumentMoniker": "Shop\\Plugins\\ckfinder\\config.js",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\config.js",
+              "RelativeToolTip": "Shop\\Plugins\\ckfinder\\config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-24T03:24:17.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "config.ascx",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\config.ascx",
+              "RelativeDocumentMoniker": "Shop\\Plugins\\ckfinder\\config.ascx",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\config.ascx",
+              "RelativeToolTip": "Shop\\Plugins\\ckfinder\\config.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2026-03-24T03:24:17.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ckfinder.js",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\ckfinder.js",
+              "RelativeDocumentMoniker": "Shop\\Plugins\\ckfinder\\ckfinder.js",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\ckfinder.js",
+              "RelativeToolTip": "Shop\\Plugins\\ckfinder\\ckfinder.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-24T03:23:59.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ckfinder.html",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\ckfinder.html",
+              "RelativeDocumentMoniker": "Shop\\Plugins\\ckfinder\\ckfinder.html",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\ckfinder\\ckfinder.html",
+              "RelativeToolTip": "Shop\\Plugins\\ckfinder\\ckfinder.html",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-24T03:23:06.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CKFinder.dll",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\CKFinder.dll",
+              "RelativeDocumentMoniker": "Shop\\Plugins\\CKFinder.dll",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Plugins\\CKFinder.dll",
+              "RelativeToolTip": "Shop\\Plugins\\CKFinder.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2026-03-24T03:22:54.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Web.config",
+              "RelativeDocumentMoniker": "Shop\\Web.config",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Web.config",
+              "RelativeToolTip": "Shop\\Web.config",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAiwK0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-24T03:13:31.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Models\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\IdentityModels.cs",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Models\\IdentityModels.cs",
+              "RelativeToolTip": "Shop\\Models\\IdentityModels.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:41:40.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAQwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:41:08.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GioHang.cs",
+              "DocumentMoniker": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Models\\GioHang.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\GioHang.cs",
+              "ToolTip": "D:\\ShopLaptop-qd1alz\\ShopLaptop\\src\\Shop\\Models\\GioHang.cs",
+              "RelativeToolTip": "Shop\\Models\\GioHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:09:28.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
